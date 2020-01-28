@@ -1,0 +1,31 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 14,
+    "window.zoomLevel": 1,
+    "editor.renderWhitespace": "all",
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "Ricty Diminished, Menlo, Monaco, 'Courier New', monospace",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.autofetch": true,
+    "liveSassCompile.settings.generateMap": true,
+		"liveSassCompile.settings.autoprefix": [
+			"> 1%",
+			"last 2 versions",
+			"Firefox ESR",
+			"ie 8",
+			"ie 9"
+		],
+		"liveSassCompile.settings.formats": [
+			{
+				"format": "expanded",
+				"extensionName": ".css",
+				"savePath": "/css"
+			}
+    ],
+    "editor.renderControlCharacters": true,
+    "editor.formatOnType": true,
+
+}
