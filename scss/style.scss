@@ -11,11 +11,10 @@
 /**
 * Foundation
 * ========================== */
-@import "foundation/**";
-// @import "foundation/_reset";
-// @import "foundation/_hensuu";
-// @import "foundation/_mixin";
-// @import "foundation/_base";
+// @import "foundation/**";
+@import "foundation/_config";
+@import "foundation/_mixin";
+@import "foundation/_base";
 
 /**
 * Layout
